@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('6071071822520108192_121.jpg');
+    background: url('6059724222571332064_121.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -34,7 +34,7 @@ header {
 .hero {
     width: 100%;
     min-height: 100vh;
-    background-image: url('images/back-image.png');
+    background-image: url('6059724222571332064_121.jpg');
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
